@@ -71,7 +71,7 @@ M             1000
 
 ## 题解
 
-1. 暴力破解法
+### 暴力破解法 O(n)
 
 ```typescript
 function romanToInt(s: string): number {
@@ -109,7 +109,7 @@ function romanToInt(s: string): number {
 }
 ```
 
-2. 大加小减法
+### 大加小减法 O(n)
 
 ```typescript
 function romanToInt(s: string): number {

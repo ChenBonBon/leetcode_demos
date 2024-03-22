@@ -43,7 +43,7 @@
 
 ## 题解
 
-1. 暴力破解法 O(n<sup>2</sup>)
+### 暴力破解法 O(n<sup>2</sup>)
 
 ```typescript
 function twoSum(nums: number[], target: number): number[] {
@@ -57,7 +57,7 @@ function twoSum(nums: number[], target: number): number[] {
 }
 ```
 
-2. 完整遍历哈希表 O(n)
+### 完整遍历哈希表 O(n)
 
 ```typescript
 function twoSum(nums: number[], target: number): number[] {
@@ -93,7 +93,7 @@ function twoSum(nums: number[], target: number): number[] {
 
 
 
-3. 非完整遍历哈希表 O(n)
+### 非完整遍历哈希表 O(n)
 
 ```typescript
 function twoSum(nums: number[], target: number): number[] {

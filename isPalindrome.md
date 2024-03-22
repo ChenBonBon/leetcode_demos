@@ -37,7 +37,7 @@
 
 ## 题解
 
-1. 转为字符串 O(n)
+### 转为字符串 O(n)
 
 ```typescript
 function isPalindrome(x: number): boolean {
@@ -55,7 +55,7 @@ function isPalindrome(x: number): boolean {
 }
 ```
 
-2. 反转一半数字 O(log N)
+### 反转一半数字 O(log n)
 
 ```typescript
 function isPalindrome(x: number): boolean {
