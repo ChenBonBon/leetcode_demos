@@ -6,3 +6,5 @@
 6. [删除有序数组中的重复项](/removeDuplicates.md)
 7. [移除元素](/removeElement.md)
 8. [搜索插入位置](/searchInsert.md)
+9. [最后一个单词的长度](/lengthOfLastWord.md)
+10. [加一](/plusOne.md)
