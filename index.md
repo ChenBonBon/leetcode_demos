@@ -5,3 +5,4 @@
 5. [合并两个有序链表](/mergeTwoLists.md)
 6. [删除有序数组中的重复项](/removeDuplicates.md)
 7. [移除元素](/removeElement.md)
+8. [搜索插入位置](/searchInsert.md)
